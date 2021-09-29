@@ -7,6 +7,6 @@
 - 💞️ I’m looking to collaborate on ...
 
 - 📫 How to reach me via 
-Twitter (@Tweetnossel), 
+\nTwitter (@Tweetnossel), 
 Discord (nossel#6595), 
 Instagram (_nossel_),
