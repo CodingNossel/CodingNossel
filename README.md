@@ -5,6 +5,9 @@ Just a random guy with to many interests.
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=11153174870&cover_image=true&theme=default&show_offline=true&background_color=ddc29b&interchange=true&bar_color=cff5a5&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=11153174870&redirect=true)
 <br/>
+
+#### Visit Counter
+![](https://komarev.com/ghpvc/?CodingNossel&abbreviated=true&style=plastic&color=orange)
 <!--
 **CodingNossel/CodingNossel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
