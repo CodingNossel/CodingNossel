@@ -1,7 +1,8 @@
-![](https://komarev.com/ghpvc/?username=CodingNossel&abbreviated=true&style=plastic&color=orange)
 <div align="center"> 
   <h2>About me</h3>
 </div>
+
+![](https://komarev.com/ghpvc/?username=CodingNossel&abbreviated=true&style=plastic&color=orange)
 Just a random guy with to many interests.
 Interests in Theoretical Computer Science, Robotics and Game Dev.
 
