@@ -1,5 +1,10 @@
-## Hi there 👋
+### About me
+Just a random guy with to many interests.
 
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/11153174870))
+<br/>
 <!--
 **CodingNossel/CodingNossel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
