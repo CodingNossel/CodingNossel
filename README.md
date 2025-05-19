@@ -7,6 +7,7 @@ Just a random guy with to many interests.
 <br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingNossel&show_icons=true&theme=synthwave&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingNossel&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Visit Counter
 ![](https://komarev.com/ghpvc/?username=CodingNossel&abbreviated=true&style=plastic&color=orange)
