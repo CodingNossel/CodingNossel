@@ -7,7 +7,7 @@ Just a random guy with to many interests.
 <br/>
 
 #### Visit Counter
-![](https://komarev.com/ghpvc/?CodingNossel&abbreviated=true&style=plastic&color=orange)
+![](https://komarev.com/ghpvc/?username=CodingNossel&abbreviated=true&style=plastic&color=orange)
 <!--
 **CodingNossel/CodingNossel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
