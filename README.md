@@ -11,11 +11,6 @@ Also doing content creation.
   <h2>Socials</h3>
 </div>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-943be7?style=for-the-badge&logo=link&logoColor=white)](https://your-portfolio-link)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-blog)
-
-
 
 <div align="center"> 
   <h2>Github Stats</h3>
