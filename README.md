@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h2>About me</h3>
+  <h2>About me</h2>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=CodingNossel&abbreviated=true&style=plastic&color=orange)
@@ -10,13 +10,16 @@ Interests in Theoretical Computer Science, Robotics and Game Dev.
 Also doing content creation.
 
 <div align="center"> 
-  <h2>Socials</h3>
+  <h2>Socials</h2>
 </div>
 
-
+    
 <div align="center"> 
-  <h2>Github Stats</h3>
+  <h2>Github Stats</h2>
 </div>
+
+<details>
+<summary></summary>
 <div align="center"> 
   
 <a href="https://github.com/anuraghazra/convoychat">
@@ -29,8 +32,10 @@ Also doing content creation.
 [![trophy](https://github-profile-trophy.vercel.app/?username=CodingNossel&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
+</details>
+
 <div align="center"> 
-  <h3>Now Playing</h3>
+  <h2>Now Playing</h2>
 </div>
 <div align="center"> 
 
