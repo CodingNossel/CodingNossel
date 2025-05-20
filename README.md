@@ -1,5 +1,5 @@
 <div align="center"> 
-<img src="https://archives.bulbagarden.net/media/upload/1/15/Spr_4p_392.png" width="200"/><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2Fn3aaowanynj61.gif&f=1&nofb=1&ipt=c44818482ee1022cd3c8c85c345cee1ab9954f61b7809f2a626cd5471aea99e0" width="300"/><img src="https://media0.giphy.com/media/w6YCfXHS6QZjeHlVpI/giphy.gif?cid=6c09b952e99kksgbviziqct6ge53ktv50n347udq5idk8ejx" width="200"/>
+<img src="https://archives.bulbagarden.net/media/upload/1/15/Spr_4p_392.png" width="200"/><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2Fn3aaowanynj61.gif&f=1&nofb=1&ipt=c44818482ee1022cd3c8c85c345cee1ab9954f61b7809f2a626cd5471aea99e0" width="300"/><img src="https://archives.bulbagarden.net/media/upload/5/5d/Spr_2c_008.png" width="200"/>
 </div>
 <div align="center"> 
   <h2>About me</h2>
