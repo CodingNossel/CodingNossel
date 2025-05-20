@@ -1,19 +1,42 @@
+<img src="https://archives.bulbagarden.net/media/upload/1/15/Spr_4p_392.png" width="300"/><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2Fn3aaowanynj61.gif&f=1&nofb=1&ipt=c44818482ee1022cd3c8c85c345cee1ab9954f61b7809f2a626cd5471aea99e0" width="300"/><img src="https://media0.giphy.com/media/w6YCfXHS6QZjeHlVpI/giphy.gif?cid=6c09b952e99kksgbviziqct6ge53ktv50n347udq5idk8ejx" width="300"/>
+
 <div align="center"> 
   <h2>About me</h2>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=CodingNossel&abbreviated=true&style=plastic&color=orange)
 
-Just a random guy with to many interests.
-Interests in Theoretical Computer Science, Robotics and Game Dev.
+Just a random guy with to many interests and who definitly loves Pokemon.
+Interests in **Theoretical Computer Science, Robotics and Game Dev**.
+
+Currently studying at Otto von Guericke University in Magdeburg in the Bachelor CS degree.
+Also the Spokeperson for Public Relation at the student faculty council.
 
 Also doing content creation.
 
 <div align="center"> 
   <h2>Socials</h2>
 </div>
+<div align="center"> 
+<h4>Streams</h4>
+<a href="https://twitch.tv/nossel"><img src="https://img.icons8.com/?size=100&id=GZN6GkqKKaUW&format=png&color=000000"/></a>
+<h4>Main Channel</h4>
+<a href="https://www.youtube.com/channel/UCV-DAXtBkQ8Tri7xHuOUDoA"><img src="https://img.icons8.com/?size=100&id=110582&format=png&color=000000"/></a>
+<h4>VOD and Shorts Channel</h4>
+<a href="https://www.youtube.com/@nosselGaming"><img src="https://img.icons8.com/?size=100&id=110582&format=png&color=000000"/></a>
 
-    
+<a href="https://www.instagram.com/_nossel_/"><img src="https://img.icons8.com/?size=100&id=TSZw5VixabhS&format=png&color=000000"/></a>
+<a href="https://discord.gg/e5HcsR8HfE"><img src="https://img.icons8.com/?size=100&id=114902&format=png&color=000000"/></a>
+<a href="https://open.spotify.com/user/11153174870"><img src="https://img.icons8.com/?size=100&id=116726&format=png&color=000000"/></a>
+<a href="https://x.com/nossel_live"><img src="https://img.icons8.com/?size=100&id=B1gnsg_baw0Y&format=png&color=000000"/></a>
+<a href="https://github.com/CodingNossel"><img src="https://img.icons8.com/?size=100&id=118557&format=png&color=000000"/></a>
+<a href="https://www.reddit.com/user/nossel_/"><img src="https://img.icons8.com/?size=100&id=1Rt8tTnKGPER&format=png&color=000000"/></a>
+<a href="https://www.linkedin.com/in/pascal-wissel-699246254/"><img src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000"/></a>
+
+
+<a href="https://www.threads.com/@_nossel_"><img src="https://img.icons8.com/?size=100&id=1IYrDBzxNHjL&format=png&color=000000"/></a>
+</div>
+
 <div align="center"> 
   <h2>Github Stats</h2>
 </div>
