@@ -36,21 +36,3 @@ Also doing content creation.
 
 <a href="https://www.threads.com/@_nossel_"><img src="https://img.icons8.com/?size=100&id=1IYrDBzxNHjL&format=png&color=000000"/></a>
 </div>
-
-<div align="center"> 
-  <h2>Github Stats</h2>
-</div>
-
-<details>
-<summary></summary>
-<div align="center"> 
-  
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingNossel&layout=donut-vertical&card_width=320" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CodingNossel&show_icons=true&theme=synthwave&include_all_commits=true" />
-</a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodingNossel&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
