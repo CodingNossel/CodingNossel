@@ -7,11 +7,10 @@
 
 ![](https://komarev.com/ghpvc/?username=CodingNossel&abbreviated=true&style=plastic&color=orange)
 
-Just a random guy with to many interests and who definitly loves Pokemon.
-Interests in **Theoretical Computer Science, Robotics and Game Dev**.
+Just a random guy with to many interests and who definitely loves Pokemon.
+Interests in **Theoretical Computer Science (especially in CompGeom Context), Robotics and Game Dev**.
 
 Currently studying at Otto von Guericke University in Magdeburg in the Bachelor CS degree.
-Also the Spokeperson for Public Relation at the student faculty council.
 
 Also doing content creation.
 
